@@ -11,6 +11,7 @@
 
 using namespace std;
 string Url;
+
 string Protocol,User,Password,Domain,Path,Port;
 int main(int argc,char* argv[]){
     // Parse URL
