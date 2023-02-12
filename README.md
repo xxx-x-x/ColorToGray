@@ -17,4 +17,4 @@
 ### Result
 **the server would you a grayscale of the image your uploaded**
 
-![profile photo](https://yy.xx-xzh.xyz/1.png)
+![profile photo](https://yy.xx-xzh.xyz/pictures/profile.png)
